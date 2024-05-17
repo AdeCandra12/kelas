@@ -4,13 +4,13 @@
 
 Teori Menjelaskan :
 * Definisi Hyperparameter
-  => hyperparameter adalah parameter dalam model machine lerning 
+  => hyperparameter adalah  parameter dalam model machine learning yang nilai awalnya harus ditetapkan sebelum proses pelatihan model dimulai.
 * Iterasi
   iterasi adalah berapa kali menjalankan epoch
 * Epoch
   => epoch adalah satu putaran melalui seluruh set data latih dari batch size
 * Batch Size
-  => jumlah sempel data dalam satu kali pelatihan
+  => jumlah sempel data dalam satu kali training
 
 ## Pengembangan Dataset
 
